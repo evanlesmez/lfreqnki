@@ -11,10 +11,12 @@ The objective of this project is to create a reusable method that automates the 
     - genanki
     - ankiconnect
 - [] Translate
-    - openai text completion
+    - openai text completion (Chat or Text completion API)
     - online lookup or download
 - [] Generate pic
     - Webscrape 
     - Dalle-2
 - [] Generate audio
     - webscrape audio
+- [] Test speech
+    - [] https://platform.openai.com/docs/guides/speech-to-text (Whisper API)
